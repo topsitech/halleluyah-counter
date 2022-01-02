@@ -1,0 +1,54 @@
+		body{
+			background-color: darkblue;
+			color: white;
+			padding: 0;
+			margin: 0;
+		}
+		#countdown{
+			font-size:18vw;
+			text-align: center;
+			color: yellow;
+		}
+		#Halleluyah, #Halleluyah_bottom{
+			font-size:6vw;
+			text-align: center;
+		}
+		#num{
+			width: 8vw;
+			text-align: center;
+			font-size: 2vw;
+			padding: 1vw;
+		}
+		button{
+			text-align: center;
+			font-size: 2vw;
+			padding: 1vw;
+		}
+		#hand_right{
+			position: fixed;
+			bottom: 0;
+			right: 1vw;
+		}
+		#hand_left{
+			position: fixed;
+			bottom: 0;
+			left: 1vw;
+		}
+		img{
+			width: 20vw;
+		}
+		#entry{
+			position: fixed;
+			bottom: 4vw;
+			left: 50%;
+			margin-left: -7vw;
+		}
+		.credit {
+		  position: fixed;
+		  bottom: 1vw;
+		  left: 0;
+		  width: 100%;
+		  color: #666;
+		  font-size: 1.5vw;
+		  text-align: center;
+		}
