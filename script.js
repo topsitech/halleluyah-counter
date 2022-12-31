@@ -14,6 +14,6 @@
 						document.getElementById("countdown").innerHTML = timeleft;
 				}
 				timeleft += 1;
-			}, 1250);
+			}, 1050);
 		}
 		

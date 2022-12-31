@@ -20,9 +20,12 @@
 			padding: 1vw;
 		}
 		button{
+			margin-top: 30px;
 			text-align: center;
 			font-size: 2vw;
 			padding: 1vw;
+			background: brown;
+			color: white;
 		}
 		#hand_right{
 			position: fixed;
@@ -37,12 +40,7 @@
 		img{
 			width: 20vw;
 		}
-		#entry{
-			position: fixed;
-			bottom: 4vw;
-			left: 50%;
-			margin-left: -7vw;
-		}
+
 		.credit {
 		  position: fixed;
 		  bottom: 1vw;
